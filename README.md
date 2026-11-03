@@ -34,4 +34,11 @@ Written justification
 Attention to detail
 
  PROJECT SCOPE:
-This is an educational portfolio project designed to practise general AI response evaluation. The examples are practice exercises and do not represent paid professional experience or formal certification.
+This is an educational portfolio project designed to practise general AI response evaluation. The examples are practice exercises and do not represent paid professional experience or formal certification.## Project Files
+
+ `response-comparison-001.md` — Healthcare response comparison: ankle sprain advice.
+`response-comparison-002.md` — General knowledge comparison: understanding inflation.
+`evaluation-scorecard.md` — Structured scoring framework for comparing AI responses.
+ `quality-review-report.md` — Summary of findings, limitations, and improvement areas.
+
+
